@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/cleaning/static/css/main.e354d4a3.chunk.css",
-    "main.js": "/cleaning/static/js/main.9fcda277.chunk.js",
-    "main.js.map": "/cleaning/static/js/main.9fcda277.chunk.js.map",
-    "runtime-main.js": "/cleaning/static/js/runtime-main.25c3f8b4.js",
-    "runtime-main.js.map": "/cleaning/static/js/runtime-main.25c3f8b4.js.map",
-    "static/js/2.fbce52ed.chunk.js": "/cleaning/static/js/2.fbce52ed.chunk.js",
-    "static/js/2.fbce52ed.chunk.js.map": "/cleaning/static/js/2.fbce52ed.chunk.js.map",
-    "static/js/3.33f885e9.chunk.js": "/cleaning/static/js/3.33f885e9.chunk.js",
-    "static/js/3.33f885e9.chunk.js.map": "/cleaning/static/js/3.33f885e9.chunk.js.map",
+    "main.css": "/cleaning/static/css/main.8d0291b6.chunk.css",
+    "main.js": "/cleaning/static/js/main.ecc2e4a7.chunk.js",
+    "main.js.map": "/cleaning/static/js/main.ecc2e4a7.chunk.js.map",
+    "runtime-main.js": "/cleaning/static/js/runtime-main.d59d11bd.js",
+    "runtime-main.js.map": "/cleaning/static/js/runtime-main.d59d11bd.js.map",
+    "static/js/2.f0f70932.chunk.js": "/cleaning/static/js/2.f0f70932.chunk.js",
+    "static/js/2.f0f70932.chunk.js.map": "/cleaning/static/js/2.f0f70932.chunk.js.map",
+    "static/js/3.87cf4175.chunk.js": "/cleaning/static/js/3.87cf4175.chunk.js",
+    "static/js/3.87cf4175.chunk.js.map": "/cleaning/static/js/3.87cf4175.chunk.js.map",
     "index.html": "/cleaning/index.html",
-    "static/css/main.e354d4a3.chunk.css.map": "/cleaning/static/css/main.e354d4a3.chunk.css.map",
-    "static/js/2.fbce52ed.chunk.js.LICENSE.txt": "/cleaning/static/js/2.fbce52ed.chunk.js.LICENSE.txt",
+    "static/css/main.8d0291b6.chunk.css.map": "/cleaning/static/css/main.8d0291b6.chunk.css.map",
+    "static/js/2.f0f70932.chunk.js.LICENSE.txt": "/cleaning/static/js/2.f0f70932.chunk.js.LICENSE.txt",
     "static/media/BebasNeue.f39fe92d.ttf": "/cleaning/static/media/BebasNeue.f39fe92d.ttf",
     "static/media/index.css": "/cleaning/static/media/Oswald-Regular.19286529.ttf",
     "static/media/App.css": "/cleaning/static/media/chalk_background.2d2fa8b7.jpg",
     "static/media/logo.6ce24c58.svg": "/cleaning/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.25c3f8b4.js",
-    "static/js/2.fbce52ed.chunk.js",
-    "static/css/main.e354d4a3.chunk.css",
-    "static/js/main.9fcda277.chunk.js"
+    "static/js/runtime-main.d59d11bd.js",
+    "static/js/2.f0f70932.chunk.js",
+    "static/css/main.8d0291b6.chunk.css",
+    "static/js/main.ecc2e4a7.chunk.js"
   ]
 }
